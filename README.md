@@ -6,4 +6,4 @@ Tyson Matlock
 ## My github username is:
 tysonmatlock
 
-I have
+I have completed this exercise
